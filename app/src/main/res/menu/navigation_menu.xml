@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:checked="true"
+        android:icon="@drawable/icons8_home_96px"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/market"
+        android:icon="@drawable/icons8_bar_chart_96px"
+        android:title="Market" />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/icons8_stocks_96px_1"
+        android:title="Stats" />
+    <item
+        android:id="@+id/wallet"
+        android:icon="@drawable/icons8_wallet_96px_3"
+        android:title="Wallet" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/icons8_male_user_96px_1"
+        android:title="Profile" />
+</menu>
